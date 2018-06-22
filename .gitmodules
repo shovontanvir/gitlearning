@@ -1,0 +1,3 @@
+[submodule "learningsubmodule"]
+	path = learningsubmodule
+	url = git@github.com:shovontanvir/learningsubmodule.git
