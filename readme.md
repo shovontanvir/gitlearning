@@ -1,1 +1,2 @@
-# gitlearning conflict test
+# creating conflict and merge errors
+# a new line
