@@ -1,2 +1,2 @@
-# creating conflict and merge errors
+# creating new conflict and merge errors
 # a new line
